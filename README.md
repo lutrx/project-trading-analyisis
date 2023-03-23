@@ -1,4 +1,4 @@
-# project-trading-analysis
+# Trading strategy analysis | Mid-bootcamp project
 
 The aim of this project was to disprove the Random-Walk-Theory. Therefore,three trading strategies were tested with different forex trading pairs. 
 
