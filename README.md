@@ -8,3 +8,5 @@ The following strategies were tested:
 3) Moving average crossover
 
 All tests were performed in Jupyter Notebook.
+
+Presentation of the project was done with Google slides: [link](https://docs.google.com/presentation/d/1PZe9e99hSPyGy4r6Np3WpFqlSk9mLt3SleRImtloFlo/edit?usp=sharing)
