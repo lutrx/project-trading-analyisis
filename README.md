@@ -29,7 +29,7 @@ Presentation of the project was done with Google slides: [link](https://docs.goo
 Data was used from these sources:
 
   * [Daily data](https://stooq.com/db/h/)
-  * [Daily and minute data](https://www.interactivebrokers.com/en/home.php)
+  * [Daily and minute data](https://www.interactivebrokers.com/en/home.php) --> account needed to get data
 
 All datasets contained the following columns:
 
