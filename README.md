@@ -53,7 +53,7 @@ All datasets contained the following columns:
  
   * calculation of how many standard deviations result of strategy is away from expected profit value of 0 --> significance level for accepting strategy 
     as valid is 3.9 standard deviations
-  * analysis of number of trades vs cumulative profit: Tableau and Matplotlib
+  * analysis of number of trades vs cumulative profit: [Tableau](https://public.tableau.com/views/Trading_data_16798630991910/USDJPY_min_redgreen_fact15_trades?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link)  and Matplotlib
 
 ## Conclusion
 
